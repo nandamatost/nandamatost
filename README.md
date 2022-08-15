@@ -1,4 +1,4 @@
-## Olá! Eu sou a Fernanda Matos 
+## Olá! Eu sou a Fernanda Matos!
 
 - 🌱 Atualmente estou cursando Análise e desenvolvimento de sistemas
 - 😊 Pronomes: ela/dela
